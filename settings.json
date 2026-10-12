@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HorstYt-w9g3.aternos.me",
-    "port": 63784,
+    "ip": "mclegenden.falixsrv.me",
+    "port": 45923,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Horst!",
         "I like to play Minecraft!"
       ]
     },
